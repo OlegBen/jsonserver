@@ -1,7 +1,23 @@
 {
-    "test": [
+    "users": [
         {
-            "response": "Good :)"
+            "id": "oleg",
+            "password": "12345"
+        }
+    ],
+    "userAlbums": [
+        {
+            "id": "oleg",
+            "albums": [
+                {
+                    "id": "Family",
+                    "photos": [
+                        "/mom",
+                        "/dad",
+                        "/sister"
+                    ]
+                }
+            ]
         }
     ]
 }
