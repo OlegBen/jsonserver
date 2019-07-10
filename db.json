@@ -12,9 +12,9 @@
                 {
                     "id": "Family",
                     "photos": [
-                        "/mom",
-                        "/dad",
-                        "/sister"
+                        "/mom.jpg",
+                        "/dad.jpg",
+                        "/sister.jpg"
                     ]
                 }
             ]
