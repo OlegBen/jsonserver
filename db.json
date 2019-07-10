@@ -10,7 +10,7 @@
             "id": "oleg",
             "albums": [
                 {
-                    "id": "Family",
+                    "id": "My family",
                     "photos": [
                         "/mom.jpg",
                         "/dad.jpg",
@@ -33,6 +33,12 @@
                         "/mom.jpg",
                         "/dad.jpg",
                         "/sister.jpg"
+                    ]
+                },
+                {
+                    "id": "My girlfriend",
+                    "photos": [
+
                     ]
                 }
             ]
