@@ -1,4 +1,4 @@
-##JSON Server
+## JSON Server
 **Get user with login 'oleg'**
 ```
 fetch('https://my-json-server.typicode.com/OlegBen/jsonserver/users?id=oleg')
